@@ -1,0 +1,24 @@
+{
+  "name": "85",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czerwin88/Zadanie_8_5.git"
+  },
+  "author": "Robert Czerwinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czerwin88/Zadanie_8_5/issues"
+  },
+  "homepage": "https://github.com/czerwin88/Zadanie_8_5#readme",
+  "devDependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
